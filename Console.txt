@@ -1,0 +1,11 @@
+> const arr = [];
+< undefined
+> ];
+< SyntaxError: Unexpected token ']'
+> const arr = []
+< SyntaxError: Can't create duplicate variable: 'arr'
+> log(arr)
+[Log] [] (0)
+< undefined
+> const a = []
+< undefined
